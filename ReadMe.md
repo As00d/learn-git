@@ -17,3 +17,10 @@ adding the remote repository
 git push --set-upstream origin master
 
 That's it is done!!
+
+// To check the branch we have a command
+git branch
+// to create a new branch we have a command
+git checkout -b branchname
+// to switch between the branches
+git checkout branch_name
