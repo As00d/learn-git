@@ -24,3 +24,9 @@ git branch
 git checkout -b branchname
 // to switch between the branches
 git checkout branch_name
+
+//if you added a file by mistake git add .
+git reset filename
+
+// if you committed by mistake
+git reset HEAD~1 ( 1 here means how back u want to go)
